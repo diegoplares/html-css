@@ -1,0 +1,57 @@
+h1 {
+    font-size: 24px;
+    text-align: center;
+    font-size: 24px;
+    text-align: center;
+    font-style: italic;
+    color: black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+  }
+  p {
+    text-align: center;
+  }
+
+  a {
+    color: white;
+  }
+
+
+  body {
+    background-color: black;
+  }
+
+  p {
+    color: gray;
+  }
+
+  .menu {
+    background-color: gray;
+    width: 100%;
+    position: fixed;
+    height: 60px;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    overflow-x: hidden;
+    padding-top: 10px;
+    float: right;
+  }
+
+  .menu a {
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    margin-right: 10px;
+  }
+
+  .menu a:hover {
+    background-color: darkgray;
+  }
+
+ 
